@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Curious about Web ...<br>📚 I'm currently learning ReactJS, Node.js and much more....<br>🤝 I’m eager to team up on projects that make the web more innovative and fun<br>⚡ On a mission to Dogde FOMO <br>📫 Feel free to connect- I’d love to hear from you!</p>
+<p align="left">✨ Curious about Web ...<br>📚 I'm currently learning ReactJS, Node.js and much more....<br>🤝 I’m eager to team up on projects that make web more innovative and fun<br>⚡ On a mission to Dogde FOMO <br>📫 Feel free to connect- I’d love to hear from you!</p>
 
 ###
 
