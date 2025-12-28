@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate for MERN stack <3
 ----------------------------
 
-* 🌍  I'm based in Mumbai
-* ✉️  You can contact me at [nikitaacodes@gmail.com](mailto:nikitaacodes@gmail.com)
+
 * 🧠  I'm currently learning Go, Rust and Web3
 * 👥  I'm looking to collaborate on Full-stack web projects
 * 💬  Ask me about On a mission to Dogde FOMO
